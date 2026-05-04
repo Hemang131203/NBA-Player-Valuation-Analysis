@@ -80,20 +80,7 @@ Classification rules:
 | Team standings | `NBA_Team_Standings_2025.csv` | Team winning context |
 | DARKO player impact | `DARKO_Player_Stats.csv` | Independent impact signal |
 
-## Repository Structure
 
-```text
-.
-|-- SC3021_SDAB_Group_8 (updated as of 7.4.26).ipynb   # Main end-to-end notebook
-|-- NBA PLAYER VALUE CLASSFICATION.csv                  # Final valuation output
-|-- Final Dataset.csv                                   # Integrated modeling dataset
-|-- NBA_Player_Salary.csv
-|-- NBA_2025_advanced.csv
-|-- NBA_2025_per_poss.csv
-|-- NBA_Team_Standings_2025.csv
-|-- DARKO_Player_Stats.csv
-`-- deck_assets_v3/                                     # Project figures
-```
 
 ## Visual Results
 
